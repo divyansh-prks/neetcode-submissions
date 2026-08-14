@@ -8,3 +8,7 @@
 
 # For rust part 
 <img width="777" height="544" alt="image" src="https://github.com/user-attachments/assets/397421fd-6747-48c6-be31-41460b65c4aa" />
+
+### if multiple pointers are there 
+<img width="1239" height="366" alt="image" src="https://github.com/user-attachments/assets/005436d4-a0aa-4c2f-9861-5f00654a118c" />
+
